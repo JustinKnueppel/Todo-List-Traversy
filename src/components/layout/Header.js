@@ -19,7 +19,7 @@ const headerStyle = {
     padding: "10px"
 };
 
-const linkStyle = {
+export const linkStyle = {
     color: "#fff",
     textDecoration: "none"
 }
